@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Editor
+*.suo
+*.user
+_UserData*
+*.log
+*.bak
+*.old
+*.sw?
+_*~
